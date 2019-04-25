@@ -51,8 +51,9 @@ html{
     width: 15%;
     }
   }
-  /* @media screen (min-width:1200px){
-  } working on this next */
+  @media screen (min-width:1200px){
+    font-size: 2.292em /*36.674px*/ 
+  } 
 
   /* Start of Homepage style */
 
